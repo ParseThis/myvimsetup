@@ -9,6 +9,8 @@ Vimrc is the config I use. Based off of [Real Pythons'](https://realpython.com/v
 - Pretty Informative status Bar
 - Does code completion useig YouCompleteMe's plugin
 - Does code formatting with Black
+- Global Search with ctrlp
+- Directory Tree with NERDTree 
 - etc ..
 
 Try it out. 
